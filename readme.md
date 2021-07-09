@@ -18,17 +18,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://miro.medium.com/max/2400/1*8AaAYxLb-VOgGUW8V8JXQA.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/react/react.png" />
-<img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/nextjs/nextjs.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/graphql/graphql.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/github/github.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Jupyter Notebook" width="30px" src="https://miro.medium.com/max/2400/1*8AaAYxLb-VOgGUW8V8JXQA.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="Nextjs" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img align="left" alt="Raspberry Pi" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" />
 
 <br />
 <br />
