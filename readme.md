@@ -3,12 +3,10 @@
 ## I'm an AI Developer, Solutions Architect, JAMstack Developer, and Student!!
 
 - 👨‍💻 I love to code all day
-- 🤖 My AI research interests include Neuro-Symbolic AI, NLP with Transformers and Meta Learning
+- 🤖 My research interests in AI include Neuro-Symbolic AI, NLP with Transformers and Meta Learning
 - 🌐 I am obsessed with Serverless and JAMstack
 - 🥅 2021 Goals: Teach an AI to play Minecraft
 - 🕹️ Fun fact: I love to play Minecraft
-
-<br />
 
 ### Languages and Tools:
 
@@ -27,15 +25,13 @@
 <img align="left" alt="Raspberry Pi" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" />
 
 <br />
-<br />
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nerdimite | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="nerdimite | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+[<img align="left" alt="nerdimite | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
-<br />
 <br />
 
 ### ⚡ GitHub Stats
