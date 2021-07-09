@@ -9,7 +9,6 @@
 - 🕹️ Fun fact: I love to play Minecraft
 
 <br />
-<br />
 
 ### Languages and Tools:
 
