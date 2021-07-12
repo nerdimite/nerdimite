@@ -4,9 +4,9 @@
 
 - 👨‍💻 I love to code all day
 - 🤖 My research interests in AI include Neuro-Symbolic AI, NLP with Transformers and Meta Learning
-- 🌐 I am obsessed with Serverless and JAMstack
+- 🌐 I love Serverless and JAMstack
 - 🥅 2021 Goals: Teach an AI to play Minecraft
-- 🕹️ Fun fact: I love to play Minecraft
+- 🕹️ Fun fact: I play Minecraft
 
 ### Languages and Tools:
 
