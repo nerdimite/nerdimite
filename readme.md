@@ -2,7 +2,7 @@
 
 ## I'm an AI Developer, Solutions Architect, JAMstack Developer, and Student!!
 
-- 👨‍💻 Hardcore programmer
+- 👨‍💻 Love to Code
 - 📚 3rd Year Undergrad majoring in CS with AI
 - 🤖 My research interests in AI include Neuro-Symbolic AI, Transformers, and Meta Learning
 - 🌐 I find Serverless and JAMstack fun
