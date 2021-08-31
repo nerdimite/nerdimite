@@ -3,8 +3,8 @@
 ## I'm an AI Developer, Solutions Architect, JAMstack Developer, and Student!!
 
 - 👨‍💻 I really love to code
-- 🤖 My research interests in AI include Neuro-Symbolic AI, NLP with Transformers and Meta Learning
-- 🌐 I find Serverless and JAMstack quite fun
+- 🤖 My research interests in AI include Neuro-Symbolic AI, Transformers, and Meta Learning
+- 🌐 I find Serverless and JAMstack fun
 - 🥅 2021 Goals: Teach an AI to play Minecraft
 - 🕹️ Fun fact: I play Minecraft
 
