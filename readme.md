@@ -4,7 +4,7 @@
 
 - 👨‍💻 Love to Code
 - 📚 3rd Year Undergrad majoring in CS with AI
-- 🤖 My research interests in AI include Neuro-Symbolic AI, Transformers, and Meta Learning
+- 🤖 My research interests in AI include Neuro-Symbolic AI, Transformers, and Model-based Learning
 - 🌐 I find Serverless and JAMstack fun
 - 🥅 2021 Goals: Teach an AI to play Minecraft
 - 🕹️ Fun fact: I play Minecraft
