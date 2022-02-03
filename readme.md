@@ -7,7 +7,7 @@
 - 🤖 My research interests in AI include Neuro-Symbolic AI, Transformers, and Model-based Reinforcement Learning
 - 🌐 I find Serverless and JAMstack fun
 - 🥅 2021 Goals: Teach an AI to play Minecraft
-- 🕹️ Fun fact: A regular Minecraft gamer
+- 🕹️ Game I Play: Minecraft
 
 ### Languages and Tools:
 
