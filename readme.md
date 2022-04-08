@@ -29,9 +29,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nerdimite | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="nerdimite | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-[<img align="left" alt="nerdimite | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="nerdimite | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" />][linkedin]
+[<img align="left" alt="nerdimite | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />][twitter]
+[<img align="left" alt="nerdimite | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />][instagram]
 
 <br />
 
