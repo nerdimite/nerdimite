@@ -3,11 +3,11 @@
 ## I'm a Deep Learning Engineer, Solutions Architect, JAMstack Developer, and Student!!
 
 - 👨‍💻 Love to Code
-- 📚 3rd Year Undergrad majoring in CS with AI
+- 📚 4th Year Undergrad majoring in CS with AI
 - 🤖 My research interests in AI include Transformers, NLP, Neuro-Symbolic AI, and Model-based Reinforcement Learning
 - 🌐 I find Serverless and JAMstack fun
-- 🥅 2021 Goals: Teach an AI to play Minecraft
-- 🕹️ Game I Play: Minecraft
+- 🕹️ Minecrafter
+- 🥅 2022 Goals: Teach an AI to play Minecraft
 
 ### Languages and Tools:
 
