@@ -3,11 +3,9 @@
 ## I'm a Deep Learning Engineer, Solutions Architect, JAMstack Developer, and Student!!
 
 - 👨‍💻 Love to Code
-- 📚 4th Year Undergrad majoring in CS with AI
-- 🤖 My research interests in AI include Transformers, NLP, Neuro-Symbolic AI, and Model-based Reinforcement Learning
+- 📚 Software Engineer at Fidelity Investments
+- 🤖 My research interests in AI include Transformers, NLP, LLMs and Neuro-Symbolic AI
 - 🌐 I find Serverless and JAMstack fun
-- 🕹️ Minecrafter
-- 🥅 2022 Goals: Build cool shit
 
 ### Languages and Tools:
 
