@@ -33,12 +33,6 @@
 
 <br />
 
-### ⚡ GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdimite&count_private=true&show_icons=true&include_all_commits=true)
-
----
-
 [linkedin]: https://linkedin.com/in/bhavesh-laddagiri
 [twitter]: https://twitter.com/nerdimite
 [instagram]: https://instagram.com/nerdimite
