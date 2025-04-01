@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhavesh 👋
 
-## I'm a Deep Learning Engineer, Solutions Architect, JAMstack Developer, and Student!!
+## I'm a Deep Learning Engineer, Solutions Architect, and JAMstack Developer!!
 
 - 👨‍💻 Love to Code
 - 📚 Software Engineer at Fidelity Investments
